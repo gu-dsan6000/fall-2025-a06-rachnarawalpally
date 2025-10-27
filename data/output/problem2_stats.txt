@@ -1,0 +1,5 @@
+Total unique clusters: 0
+Total applications: 0
+Average applications per cluster: 0.00
+
+Most heavily used clusters:
